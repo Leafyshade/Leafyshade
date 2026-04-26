@@ -1,4 +1,4 @@
-## Hi there 👋
+## 知识如同秋日的落叶，而我要把它们收拢
 
 <!--
 **Leafyshade/Leafyshade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
